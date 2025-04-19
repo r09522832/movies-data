@@ -1,0 +1,121 @@
+Title: Inception
+Genre: Action
+Director Name: Christopher Nolan
+Studio: Warner Bros.
+Year: 2010
+
+Title: Toy Story
+Genre: Animation
+Director Name: John Lasseter
+Studio: Pixar
+Year: 1995
+
+Title: The Hangover
+Genre: Comedy
+Director Name: Todd Phillips
+Studio: Legendary Pictures
+Year: 2009
+
+Title: Forrest Gump
+Genre: Drama
+Director Name: Robert Zemeckis
+Studio: Paramount Pictures
+Year: 1994
+
+Title: Get Out
+Genre: Horror
+Director Name: Jordan Peele
+Studio: Universal Pictures
+Year: 2017
+
+Title: Mad Max: Fury Road
+Genre: Action
+Director Name: George Miller
+Studio: Warner Bros.
+Year: 2015
+
+Title: Spirited Away
+Genre: Animation
+Director Name: Hayao Miyazaki
+Studio: Studio Ghibli
+Year: 2001
+
+Title: The Truman Show
+Genre: Comedy
+Director Name: Peter Weir
+Studio: Paramount Pictures
+Year: 1998
+
+Title: The Shawshank Redemption
+Genre: Drama
+Director Name: Frank Darabont
+Studio: Warner Bros.
+Year: 1994
+
+Title: A Quiet Place
+Genre: Horror
+Director Name: John Krasinski
+Studio: Paramount Pictures
+Year: 2018
+
+Title: John Wick
+Genre: Action
+Director Name: Chad Stahelski
+Studio: Summit Entertainment
+Year: 2014
+
+Title: Zootopia
+Genre: Animation
+Director Name: Byron Howard
+Director Name: Rich Moore
+Studio: Walt Disney Pictures
+Year: 2016
+
+Title: The Mask
+Genre: Comedy
+Director Name: Chuck Russell
+Studio: New Line Cinema
+Year: 1994
+
+Title: The Pursuit of Happyness
+Genre: Drama
+Director Name: Gabriele Muccino
+Studio: Columbia Pictures
+Year: 2006
+
+Title: The Conjuring
+Genre: Horror
+Director Name: James Wan
+Studio: Warner Bros.
+Year: 2013
+
+Title: The Dark Knight
+Genre: Action
+Director Name: Christopher Nolan
+Studio: Warner Bros.
+Year: 2008
+
+Title: Inside Out
+Genre: Animation
+Director Name: Pete Docter
+Director Name: Ronnie del Carmen
+Studio: Pixar
+Year: 2015
+
+Title: Home Alone
+Genre: Comedy
+Director Name: Chris Columbus
+Studio: 20th Century Fox
+Year: 1990
+
+Title: The Green Mile
+Genre: Drama
+Director Name: Frank Darabont
+Studio: Warner Bros.
+Year: 1999
+
+Title: Hereditary
+Genre: Horror
+Director Name: Ari Aster
+Studio: A24
+Year: 2018
